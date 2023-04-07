@@ -1,2 +1,1 @@
-# cw21-book-search-eng
-A Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server
+# Book Search Engine Starter Code
