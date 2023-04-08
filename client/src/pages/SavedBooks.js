@@ -19,25 +19,6 @@ const SavedBooks = () => {
     //const {userData, setData} = useState(loading ? null : data.me);
 
 
-  // create function that accepts the book's mongo _id value as param and deletes the book from the database
-  //const handleDeleteBook = async (bookId) => {
-     //try {
-      //const data = await removeBook({
-        //variables: {bookId},
-     // });
-      //setData(() => {
-        //return{
-         // ...userData,
-         // savedBooks: data.data.removeBook.savedBooks
-        //}
-      //})
-     //} catch (err) {
-     // console.error(err);
-     //}
-
-     //removeBookId(bookId);
-  //};
-
   const userData = data?.me || {};
 
   // create function that accepts the book's mongo _id value as param and deletes the book from the database
