@@ -10,8 +10,8 @@ User can clone the repo from https://github.com/Vickyb94/cw21-book-search-eng an
 In the terminal, the user runs npm instal && npm run build. The the user starts the server and the client side.
 The user can login and signup, the user can search for books and save them. The user can also view saved books and delete them.
 
-![alt text](assets/images/screenshot.png)
-![alt text](assets/images/screenshot.png)
+![alt text](./client/public/Screenshot%202023-04-08%20131240.png)
+
 
 Deployed Url: 
 Github repo: https://github.com/Vickyb94/cw21-book-search-eng 
